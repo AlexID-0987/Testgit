@@ -1,0 +1,6 @@
+C:\Users\Expert\source\repos\Sarp11\Sarp11\bin\Debug\Sarp11.exe.config
+C:\Users\Expert\source\repos\Sarp11\Sarp11\bin\Debug\Sarp11.exe
+C:\Users\Expert\source\repos\Sarp11\Sarp11\bin\Debug\Sarp11.pdb
+C:\Users\Expert\source\repos\Sarp11\Sarp11\obj\Debug\Sarp11.csproj.CoreCompileInputs.cache
+C:\Users\Expert\source\repos\Sarp11\Sarp11\obj\Debug\Sarp11.exe
+C:\Users\Expert\source\repos\Sarp11\Sarp11\obj\Debug\Sarp11.pdb
