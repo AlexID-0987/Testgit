@@ -1,0 +1,5 @@
+﻿  Stack.cpp
+  stack1cpp.cpp
+  Создание кода...
+c:\users\expert\studying\stack\stack\header.h(215): warning C4715: Array<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::top: значение возвращается не при всех путях выполнения
+  Stack.vcxproj -> C:\Users\Expert\studying\Stack\Debug\Stack.exe

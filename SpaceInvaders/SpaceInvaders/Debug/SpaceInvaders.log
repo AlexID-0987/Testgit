@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\expert\source\repos\spaceinvaders\spaceinvaders\source.cpp(17): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\expert\source\repos\spaceinvaders\spaceinvaders\source.cpp(44): warning C4552: "-": результат выражения не используется
+c:\users\expert\source\repos\spaceinvaders\spaceinvaders\source.cpp(144): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\expert\source\repos\spaceinvaders\spaceinvaders\source.cpp(170): warning C4552: "-": результат выражения не используется
+  SpaceInvaders.vcxproj -> C:\Users\Expert\source\repos\SpaceInvaders\Debug\SpaceInvaders.exe
