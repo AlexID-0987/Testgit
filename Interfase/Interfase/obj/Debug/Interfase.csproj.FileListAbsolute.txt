@@ -1,0 +1,7 @@
+C:\Users\Expert\source\repos\Interfase\Interfase\bin\Debug\Interfase.exe.config
+C:\Users\Expert\source\repos\Interfase\Interfase\bin\Debug\Interfase.exe
+C:\Users\Expert\source\repos\Interfase\Interfase\bin\Debug\Interfase.pdb
+C:\Users\Expert\source\repos\Interfase\Interfase\obj\Debug\Interfase.csproj.CoreCompileInputs.cache
+C:\Users\Expert\source\repos\Interfase\Interfase\obj\Debug\Interfase.exe
+C:\Users\Expert\source\repos\Interfase\Interfase\obj\Debug\Interfase.pdb
+C:\Users\Expert\source\repos\Interfase\Interfase\obj\Debug\Interfase.csprojAssemblyReference.cache
