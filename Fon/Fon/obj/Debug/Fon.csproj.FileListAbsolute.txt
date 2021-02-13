@@ -1,0 +1,10 @@
+C:\Users\Expert\source\repos\Fon\Fon\bin\Debug\Fon.exe.config
+C:\Users\Expert\source\repos\Fon\Fon\bin\Debug\Fon.exe
+C:\Users\Expert\source\repos\Fon\Fon\bin\Debug\Fon.pdb
+C:\Users\Expert\source\repos\Fon\Fon\obj\Debug\Fon.csprojAssemblyReference.cache
+C:\Users\Expert\source\repos\Fon\Fon\obj\Debug\Fon.Form1.resources
+C:\Users\Expert\source\repos\Fon\Fon\obj\Debug\Fon.Properties.Resources.resources
+C:\Users\Expert\source\repos\Fon\Fon\obj\Debug\Fon.csproj.GenerateResource.cache
+C:\Users\Expert\source\repos\Fon\Fon\obj\Debug\Fon.csproj.CoreCompileInputs.cache
+C:\Users\Expert\source\repos\Fon\Fon\obj\Debug\Fon.exe
+C:\Users\Expert\source\repos\Fon\Fon\obj\Debug\Fon.pdb
