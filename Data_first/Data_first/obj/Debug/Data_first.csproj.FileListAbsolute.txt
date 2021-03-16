@@ -1,0 +1,13 @@
+C:\Users\Expert\source\repos\Data_first\Data_first\bin\Debug\Data_first.exe.config
+C:\Users\Expert\source\repos\Data_first\Data_first\bin\Debug\Data_first.exe
+C:\Users\Expert\source\repos\Data_first\Data_first\bin\Debug\Data_first.pdb
+C:\Users\Expert\source\repos\Data_first\Data_first\bin\Debug\EntityFramework.dll
+C:\Users\Expert\source\repos\Data_first\Data_first\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Expert\source\repos\Data_first\Data_first\bin\Debug\EntityFramework.xml
+C:\Users\Expert\source\repos\Data_first\Data_first\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Expert\source\repos\Data_first\Data_first\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Expert\source\repos\Data_first\Data_first\obj\Debug\Data_first.csprojAssemblyReference.cache
+C:\Users\Expert\source\repos\Data_first\Data_first\obj\Debug\Data_first.csproj.CoreCompileInputs.cache
+C:\Users\Expert\source\repos\Data_first\Data_first\obj\Debug\Data_first.csproj.CopyComplete
+C:\Users\Expert\source\repos\Data_first\Data_first\obj\Debug\Data_first.exe
+C:\Users\Expert\source\repos\Data_first\Data_first\obj\Debug\Data_first.pdb

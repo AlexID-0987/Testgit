@@ -1,0 +1,15 @@
+C:\Users\Expert\source\repos\Gradient_color\Gradient_color\bin\Debug\Gradient_color.exe.config
+C:\Users\Expert\source\repos\Gradient_color\Gradient_color\bin\Debug\Gradient_color.exe
+C:\Users\Expert\source\repos\Gradient_color\Gradient_color\bin\Debug\Gradient_color.pdb
+C:\Users\Expert\source\repos\Gradient_color\Gradient_color\obj\Debug\Gradient_color.csprojAssemblyReference.cache
+C:\Users\Expert\source\repos\Gradient_color\Gradient_color\obj\Debug\MainWindow.g.cs
+C:\Users\Expert\source\repos\Gradient_color\Gradient_color\obj\Debug\App.g.cs
+C:\Users\Expert\source\repos\Gradient_color\Gradient_color\obj\Debug\Gradient_color_MarkupCompile.cache
+C:\Users\Expert\source\repos\Gradient_color\Gradient_color\obj\Debug\Gradient_color_MarkupCompile.lref
+C:\Users\Expert\source\repos\Gradient_color\Gradient_color\obj\Debug\MainWindow.baml
+C:\Users\Expert\source\repos\Gradient_color\Gradient_color\obj\Debug\Gradient_color.g.resources
+C:\Users\Expert\source\repos\Gradient_color\Gradient_color\obj\Debug\Gradient_color.Properties.Resources.resources
+C:\Users\Expert\source\repos\Gradient_color\Gradient_color\obj\Debug\Gradient_color.csproj.GenerateResource.cache
+C:\Users\Expert\source\repos\Gradient_color\Gradient_color\obj\Debug\Gradient_color.csproj.CoreCompileInputs.cache
+C:\Users\Expert\source\repos\Gradient_color\Gradient_color\obj\Debug\Gradient_color.exe
+C:\Users\Expert\source\repos\Gradient_color\Gradient_color\obj\Debug\Gradient_color.pdb

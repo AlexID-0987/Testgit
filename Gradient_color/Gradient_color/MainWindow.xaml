@@ -1,0 +1,38 @@
+﻿<Window x:Class="Gradient_color.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Gradient_color"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        
+            <StackPanel Height="100">
+                <StackPanel.Background>
+                    <LinearGradientBrush>
+                        <GradientStop Color="{Binding ElementName=color_a, Path=Text}"
+                        Offset="{Binding ElementName=text_a,Path=Text}"></GradientStop>
+                        <GradientStop Color="{Binding ElementName=color_b, Path=Text}"
+                        Offset="{Binding ElementName=text_b,Path=Text}"></GradientStop>
+                    </LinearGradientBrush>
+                </StackPanel.Background>
+                <StackPanel Orientation="Horizontal">
+                    <ComboBox Name="color_a" Width="100">
+                        <ComboBoxItem>Red</ComboBoxItem>
+                        <ComboBoxItem>Green</ComboBoxItem>
+                    </ComboBox>
+                    <TextBox  Name="text_a" Width="100"></TextBox>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <ComboBox Name="color_b"  Width="100">
+                        <ComboBoxItem>Yellow</ComboBoxItem>
+                        <ComboBoxItem>Blue</ComboBoxItem>
+                    </ComboBox>
+                    <TextBox Name="text_b" Width="100"></TextBox>
+                </StackPanel>
+
+            </StackPanel>
+        
+    </Grid>
+</Window>
