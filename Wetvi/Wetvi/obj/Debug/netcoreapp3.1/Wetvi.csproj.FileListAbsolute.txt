@@ -1,0 +1,13 @@
+C:\Users\Alex\source\repos\Wetvi\Wetvi\bin\Debug\netcoreapp3.1\Wetvi.exe
+C:\Users\Alex\source\repos\Wetvi\Wetvi\bin\Debug\netcoreapp3.1\Wetvi.deps.json
+C:\Users\Alex\source\repos\Wetvi\Wetvi\bin\Debug\netcoreapp3.1\Wetvi.runtimeconfig.json
+C:\Users\Alex\source\repos\Wetvi\Wetvi\bin\Debug\netcoreapp3.1\Wetvi.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Wetvi\Wetvi\bin\Debug\netcoreapp3.1\Wetvi.dll
+C:\Users\Alex\source\repos\Wetvi\Wetvi\bin\Debug\netcoreapp3.1\Wetvi.pdb
+C:\Users\Alex\source\repos\Wetvi\Wetvi\obj\Debug\netcoreapp3.1\Wetvi.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Wetvi\Wetvi\obj\Debug\netcoreapp3.1\Wetvi.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Wetvi\Wetvi\obj\Debug\netcoreapp3.1\Wetvi.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Wetvi\Wetvi\obj\Debug\netcoreapp3.1\Wetvi.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Wetvi\Wetvi\obj\Debug\netcoreapp3.1\Wetvi.dll
+C:\Users\Alex\source\repos\Wetvi\Wetvi\obj\Debug\netcoreapp3.1\Wetvi.pdb
+C:\Users\Alex\source\repos\Wetvi\Wetvi\obj\Debug\netcoreapp3.1\Wetvi.genruntimeconfig.cache

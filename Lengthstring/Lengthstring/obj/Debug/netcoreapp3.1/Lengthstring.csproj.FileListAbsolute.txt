@@ -1,0 +1,13 @@
+C:\Users\Alex\source\repos\Lengthstring\Lengthstring\bin\Debug\netcoreapp3.1\Lengthstring.exe
+C:\Users\Alex\source\repos\Lengthstring\Lengthstring\bin\Debug\netcoreapp3.1\Lengthstring.deps.json
+C:\Users\Alex\source\repos\Lengthstring\Lengthstring\bin\Debug\netcoreapp3.1\Lengthstring.runtimeconfig.json
+C:\Users\Alex\source\repos\Lengthstring\Lengthstring\bin\Debug\netcoreapp3.1\Lengthstring.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Lengthstring\Lengthstring\bin\Debug\netcoreapp3.1\Lengthstring.dll
+C:\Users\Alex\source\repos\Lengthstring\Lengthstring\bin\Debug\netcoreapp3.1\Lengthstring.pdb
+C:\Users\Alex\source\repos\Lengthstring\Lengthstring\obj\Debug\netcoreapp3.1\Lengthstring.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Lengthstring\Lengthstring\obj\Debug\netcoreapp3.1\Lengthstring.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Lengthstring\Lengthstring\obj\Debug\netcoreapp3.1\Lengthstring.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Lengthstring\Lengthstring\obj\Debug\netcoreapp3.1\Lengthstring.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Lengthstring\Lengthstring\obj\Debug\netcoreapp3.1\Lengthstring.dll
+C:\Users\Alex\source\repos\Lengthstring\Lengthstring\obj\Debug\netcoreapp3.1\Lengthstring.pdb
+C:\Users\Alex\source\repos\Lengthstring\Lengthstring\obj\Debug\netcoreapp3.1\Lengthstring.genruntimeconfig.cache

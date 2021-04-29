@@ -1,0 +1,13 @@
+C:\Users\Alex\source\repos\ArrayListFor\ArrayListFor\bin\Debug\netcoreapp3.1\ArrayListFor.exe
+C:\Users\Alex\source\repos\ArrayListFor\ArrayListFor\bin\Debug\netcoreapp3.1\ArrayListFor.deps.json
+C:\Users\Alex\source\repos\ArrayListFor\ArrayListFor\bin\Debug\netcoreapp3.1\ArrayListFor.runtimeconfig.json
+C:\Users\Alex\source\repos\ArrayListFor\ArrayListFor\bin\Debug\netcoreapp3.1\ArrayListFor.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\ArrayListFor\ArrayListFor\bin\Debug\netcoreapp3.1\ArrayListFor.dll
+C:\Users\Alex\source\repos\ArrayListFor\ArrayListFor\bin\Debug\netcoreapp3.1\ArrayListFor.pdb
+C:\Users\Alex\source\repos\ArrayListFor\ArrayListFor\obj\Debug\netcoreapp3.1\ArrayListFor.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\ArrayListFor\ArrayListFor\obj\Debug\netcoreapp3.1\ArrayListFor.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\ArrayListFor\ArrayListFor\obj\Debug\netcoreapp3.1\ArrayListFor.AssemblyInfo.cs
+C:\Users\Alex\source\repos\ArrayListFor\ArrayListFor\obj\Debug\netcoreapp3.1\ArrayListFor.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\ArrayListFor\ArrayListFor\obj\Debug\netcoreapp3.1\ArrayListFor.dll
+C:\Users\Alex\source\repos\ArrayListFor\ArrayListFor\obj\Debug\netcoreapp3.1\ArrayListFor.pdb
+C:\Users\Alex\source\repos\ArrayListFor\ArrayListFor\obj\Debug\netcoreapp3.1\ArrayListFor.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wetvi", "Wetvi\Wetvi.csproj", "{FE684D6F-57A8-41F6-8BFA-9EF30E21CA4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE684D6F-57A8-41F6-8BFA-9EF30E21CA4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE684D6F-57A8-41F6-8BFA-9EF30E21CA4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE684D6F-57A8-41F6-8BFA-9EF30E21CA4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE684D6F-57A8-41F6-8BFA-9EF30E21CA4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C612244B-4377-44C9-BFDF-65770244767B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\Alex\source\repos\Formatstring\Formatstring\bin\Debug\netcoreapp3.1\Formatstring.exe
+C:\Users\Alex\source\repos\Formatstring\Formatstring\bin\Debug\netcoreapp3.1\Formatstring.deps.json
+C:\Users\Alex\source\repos\Formatstring\Formatstring\bin\Debug\netcoreapp3.1\Formatstring.runtimeconfig.json
+C:\Users\Alex\source\repos\Formatstring\Formatstring\bin\Debug\netcoreapp3.1\Formatstring.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Formatstring\Formatstring\bin\Debug\netcoreapp3.1\Formatstring.dll
+C:\Users\Alex\source\repos\Formatstring\Formatstring\bin\Debug\netcoreapp3.1\Formatstring.pdb
+C:\Users\Alex\source\repos\Formatstring\Formatstring\obj\Debug\netcoreapp3.1\Formatstring.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Formatstring\Formatstring\obj\Debug\netcoreapp3.1\Formatstring.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Formatstring\Formatstring\obj\Debug\netcoreapp3.1\Formatstring.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Formatstring\Formatstring\obj\Debug\netcoreapp3.1\Formatstring.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Formatstring\Formatstring\obj\Debug\netcoreapp3.1\Formatstring.dll
+C:\Users\Alex\source\repos\Formatstring\Formatstring\obj\Debug\netcoreapp3.1\Formatstring.pdb
+C:\Users\Alex\source\repos\Formatstring\Formatstring\obj\Debug\netcoreapp3.1\Formatstring.genruntimeconfig.cache

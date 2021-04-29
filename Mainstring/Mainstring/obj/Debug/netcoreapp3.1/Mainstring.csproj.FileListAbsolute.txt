@@ -1,0 +1,13 @@
+C:\Users\Alex\source\repos\Mainstring\Mainstring\bin\Debug\netcoreapp3.1\Mainstring.exe
+C:\Users\Alex\source\repos\Mainstring\Mainstring\bin\Debug\netcoreapp3.1\Mainstring.deps.json
+C:\Users\Alex\source\repos\Mainstring\Mainstring\bin\Debug\netcoreapp3.1\Mainstring.runtimeconfig.json
+C:\Users\Alex\source\repos\Mainstring\Mainstring\bin\Debug\netcoreapp3.1\Mainstring.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Mainstring\Mainstring\bin\Debug\netcoreapp3.1\Mainstring.dll
+C:\Users\Alex\source\repos\Mainstring\Mainstring\bin\Debug\netcoreapp3.1\Mainstring.pdb
+C:\Users\Alex\source\repos\Mainstring\Mainstring\obj\Debug\netcoreapp3.1\Mainstring.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Mainstring\Mainstring\obj\Debug\netcoreapp3.1\Mainstring.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Mainstring\Mainstring\obj\Debug\netcoreapp3.1\Mainstring.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Mainstring\Mainstring\obj\Debug\netcoreapp3.1\Mainstring.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Mainstring\Mainstring\obj\Debug\netcoreapp3.1\Mainstring.dll
+C:\Users\Alex\source\repos\Mainstring\Mainstring\obj\Debug\netcoreapp3.1\Mainstring.pdb
+C:\Users\Alex\source\repos\Mainstring\Mainstring\obj\Debug\netcoreapp3.1\Mainstring.genruntimeconfig.cache

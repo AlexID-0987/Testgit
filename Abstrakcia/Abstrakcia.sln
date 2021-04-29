@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstrakcia", "Abstrakcia\Abstrakcia.csproj", "{AC33561B-8920-4413-AF29-5A9BC30199FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC33561B-8920-4413-AF29-5A9BC30199FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC33561B-8920-4413-AF29-5A9BC30199FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC33561B-8920-4413-AF29-5A9BC30199FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC33561B-8920-4413-AF29-5A9BC30199FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D324F13D-789E-46CF-864B-184FE5546027}
+	EndGlobalSection
+EndGlobal

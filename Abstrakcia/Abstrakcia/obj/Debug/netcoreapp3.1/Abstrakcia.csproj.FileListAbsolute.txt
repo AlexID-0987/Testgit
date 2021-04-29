@@ -1,0 +1,13 @@
+C:\Users\Alex\source\repos\Abstrakcia\Abstrakcia\obj\Debug\netcoreapp3.1\Abstrakcia.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Abstrakcia\Abstrakcia\obj\Debug\netcoreapp3.1\Abstrakcia.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\Abstrakcia\Abstrakcia\obj\Debug\netcoreapp3.1\Abstrakcia.AssemblyInfo.cs
+C:\Users\Alex\source\repos\Abstrakcia\Abstrakcia\obj\Debug\netcoreapp3.1\Abstrakcia.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Abstrakcia\Abstrakcia\bin\Debug\netcoreapp3.1\Abstrakcia.exe
+C:\Users\Alex\source\repos\Abstrakcia\Abstrakcia\bin\Debug\netcoreapp3.1\Abstrakcia.deps.json
+C:\Users\Alex\source\repos\Abstrakcia\Abstrakcia\bin\Debug\netcoreapp3.1\Abstrakcia.runtimeconfig.json
+C:\Users\Alex\source\repos\Abstrakcia\Abstrakcia\bin\Debug\netcoreapp3.1\Abstrakcia.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\Abstrakcia\Abstrakcia\bin\Debug\netcoreapp3.1\Abstrakcia.dll
+C:\Users\Alex\source\repos\Abstrakcia\Abstrakcia\bin\Debug\netcoreapp3.1\Abstrakcia.pdb
+C:\Users\Alex\source\repos\Abstrakcia\Abstrakcia\obj\Debug\netcoreapp3.1\Abstrakcia.dll
+C:\Users\Alex\source\repos\Abstrakcia\Abstrakcia\obj\Debug\netcoreapp3.1\Abstrakcia.pdb
+C:\Users\Alex\source\repos\Abstrakcia\Abstrakcia\obj\Debug\netcoreapp3.1\Abstrakcia.genruntimeconfig.cache
