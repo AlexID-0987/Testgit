@@ -1,0 +1,16 @@
+C:\Users\Alex\source\repos\Carscollection\Carscollection\bin\Debug\Carscollection.exe.config
+C:\Users\Alex\source\repos\Carscollection\Carscollection\bin\Debug\Carscollection.exe
+C:\Users\Alex\source\repos\Carscollection\Carscollection\bin\Debug\Carscollection.pdb
+C:\Users\Alex\source\repos\Carscollection\Carscollection\obj\Debug\View\MainView.g.cs
+C:\Users\Alex\source\repos\Carscollection\Carscollection\obj\Debug\App.g.cs
+C:\Users\Alex\source\repos\Carscollection\Carscollection\obj\Debug\Carscollection_MarkupCompile.cache
+C:\Users\Alex\source\repos\Carscollection\Carscollection\obj\Debug\Carscollection_MarkupCompile.lref
+C:\Users\Alex\source\repos\Carscollection\Carscollection\obj\Debug\View\MainView.baml
+C:\Users\Alex\source\repos\Carscollection\Carscollection\obj\Debug\Carscollection.g.resources
+C:\Users\Alex\source\repos\Carscollection\Carscollection\obj\Debug\Carscollection.Properties.Resources.resources
+C:\Users\Alex\source\repos\Carscollection\Carscollection\obj\Debug\Carscollection.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\Carscollection\Carscollection\obj\Debug\Carscollection.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Carscollection\Carscollection\obj\Debug\Carscollection.exe
+C:\Users\Alex\source\repos\Carscollection\Carscollection\obj\Debug\Carscollection.pdb
+C:\Users\Alex\source\repos\Carscollection\Carscollection\obj\Debug\Carscollection.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Carscollection\Carscollection\obj\Debug\GeneratedInternalTypeHelper.g.cs
