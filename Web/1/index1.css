@@ -1,0 +1,24 @@
+.list{
+    background-color: rgb(115, 250, 115);
+    list-style-type:none;
+    counter-reset: cnt;
+    
+}
+li{
+    font-size: 40px;
+    background-color:rgb(10, 197, 10);
+    margin: 10px;
+    color: rgb(247, 245, 240);
+    counter-increment: cnt;
+}
+span{
+    background-color:rgb(7, 105, 7);
+}
+.list li::before{
+      content: counter(cnt) ".";
+}
+div{
+    font-size: 100px;
+    border: 2px solid black;
+    background-color: coral;
+}
