@@ -1,0 +1,37 @@
+.card .name{
+    text-align: center;
+    font-size: 1.5em;
+}
+#cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+#bo{
+    background-color: rgb(197, 243, 221);
+}
+#cards :hover{
+    border: none;
+    
+}
+.card{
+   margin: 10px;
+   background-color: rgb(253, 226, 159);
+   width: 150px;
+   border: 1px solid black;
+   padding: 2pc;
+   border-radius: 10px;
+   box-shadow: 2px 2px 15px  black;
+}
+.card .photo{
+    width: 100px;
+    margin: auto;
+}
+.card .photo img{
+    width: 100%;
+}
+#te{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(218, 100, 100);
+}
