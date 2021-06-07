@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\ProcessComputer\ProcessComputer\bin\Debug\ProcessComputer.exe.config
+C:\Users\Alex\source\repos\ProcessComputer\ProcessComputer\bin\Debug\ProcessComputer.exe
+C:\Users\Alex\source\repos\ProcessComputer\ProcessComputer\bin\Debug\ProcessComputer.pdb
+C:\Users\Alex\source\repos\ProcessComputer\ProcessComputer\obj\Debug\ProcessComputer.Form1.resources
+C:\Users\Alex\source\repos\ProcessComputer\ProcessComputer\obj\Debug\ProcessComputer.Properties.Resources.resources
+C:\Users\Alex\source\repos\ProcessComputer\ProcessComputer\obj\Debug\ProcessComputer.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\ProcessComputer\ProcessComputer\obj\Debug\ProcessComputer.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\ProcessComputer\ProcessComputer\obj\Debug\ProcessComputer.exe
+C:\Users\Alex\source\repos\ProcessComputer\ProcessComputer\obj\Debug\ProcessComputer.pdb
+C:\Users\Alex\source\repos\ProcessComputer\ProcessComputer\obj\Debug\ProcessComputer.csprojAssemblyReference.cache
