@@ -1,0 +1,32 @@
+ .foto1 img{
+     float: right;
+     width: 300px;
+     border-radius: 5%;
+     
+     
+ }
+ .bo{
+     background-color: rgb(223, 194, 183);
+ }
+ .foto2{
+     position: absolute;
+     left: 10px;
+     right: 25px;
+     top: 260px;
+ }
+ .foto2 img{
+    float:right;
+    width: 300px;
+    border-radius: 5%;
+    
+    
+    
+}
+.te{
+    position: absolute;
+    width: 1000px;
+}
+.wind{
+margin-left: 20px;
+margin-right: 20px;
+}

@@ -1,0 +1,281 @@
+.logo{
+    height: 150px;
+    width: 900;
+    background-color: coral;
+    border-radius: 10px;
+    display: flex;
+}
+.foto{
+    width: 50px;
+    padding-left: 80px;
+    padding-top: 40px;
+}
+.text{
+    height: 100px;
+    padding-left: 10px;
+    padding-top: 40px; 
+}
+.logo img{
+    width: 100%;
+    
+    
+}
+label{
+    font-size: 200%;
+    color: cornsilk;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.logo1{
+    width: 1000px;
+    display: flex;
+}
+.text1{
+    height: 120px;
+    padding-left: 730px;
+    padding-top: 50px;
+    font-size: 10px;
+    
+}
+.logo .foto1{
+    width: 50px;
+    height: 100px;
+    padding-top: 40px;
+    padding-left: 10px;
+    
+    
+}
+.foto1 img{
+    width: 100%;
+}
+nav li{
+    list-style: none;
+    padding-top: 20px;
+}
+nav li label{
+    font-size: 20px;
+    color: rgb(253, 250, 250);
+}
+nav{
+    height: 300px;
+    background-color: rgb(148, 121, 52);
+    float:left;
+    width: 15%;
+    margin-top: 3px;
+     
+}
+.me li:hover{
+    background-color: firebrick;
+    margin-right: 20px;
+    
+}
+main{
+    height: 300px;
+    background-color: rgb(148, 121, 52);
+    float:right;
+    width: 85%;
+    margin-top: 3px;
+}
+
+main .str1{
+    display: flex;
+    height: 30px;
+    
+    
+}
+main .str{
+    width: 900px;
+    height: 40px;
+    
+    
+    margin: 40px;
+}
+main .str img{
+    width: 5%;
+    padding-top: 8px;
+    
+}
+main .one{
+    display: flex;
+    font-size: 10px;
+    padding-top: 3px;
+    
+}
+main .foto img{
+    width: 20%;
+}
+main .foto{
+    width: 100px;
+    padding-top: 1px;
+    display: flex;
+    
+}
+main .two{
+    font-size: 10px;
+    padding-top: 3px;
+}
+@media screen and (max-width:800px) {
+    .foto img{
+        width: 50px;
+    }
+    .text{
+        height: 100px;
+        width: 180px;
+        padding-left: 10px;
+        padding-top: 40px; 
+    }
+    
+    .logo1{
+        width: 500px;
+        display: flex;
+    }
+    .text1{
+        height: 120px;
+        padding-left: 230px;
+        padding-top: 50px;
+        font-size: 10px;
+        
+    }
+    .logo .foto1{
+        width: 50px;
+        height: 100px;
+        padding-top: 40px;
+        padding-left: 10px;
+        
+        
+    }
+    .foto1 img{
+        width: 100%;
+    }
+    nav{
+        height: 300px;
+        background-color: rgb(148, 121, 52);
+        float:left;
+        width: 25%;
+        margin-top: 3px;
+         
+    }
+    main{
+        height: 300px;
+        background-color: rgb(148, 121, 52);
+        float:right;
+        width: 75%;
+        margin-top: 3px;
+    }
+    main .str{
+        width: 500px;
+        height: 40px;
+        
+        
+        margin: 40px;
+    }
+    main .one{
+        display: flex;
+        font-size: 7px;
+        padding-top: 3px;
+        
+    }
+    main .two{
+        font-size: 7px;
+        padding-top: 3px;
+    }
+    @media screen and (max-width: 550px) {
+        .foto img{
+            width: 50px;
+        }
+        .text{
+            height: 100px;
+            width:120px;
+            padding-left: 10px;
+            padding-top: 30px; 
+            font-size: 10px;
+        }
+        .foto{
+            width: 50px;
+            padding-left: 10px;
+            padding-top: 20px;
+        }
+        
+        .logo1{
+            width: 300px;
+            display: flex;
+        }
+        .text1{
+            height: 120px;
+            padding-left: 80px;
+            padding-top: 30px;
+            font-size: 10px;
+            
+        }
+        .logo{
+            height: 100px;
+            width: 150;
+            background-color: coral;
+            border-radius: 10px;
+            display: flex;
+        }
+        .logo1 .foto1{
+            padding-top: 20px;
+        }
+        
+        .foto1 img{
+            width: 100%;
+        
+        }
+        nav li{
+            list-style: none;
+            padding-top: 10px;
+        }
+        nav li label{
+            font-size: 10px;
+            color: rgb(253, 250, 250);
+            
+        }
+        nav{
+            height: 600px;
+            background-color: rgb(148, 121, 52);
+            float:left;
+            width: 25%;
+            margin-top: 3px;
+             
+        }
+        main .str1{
+            display: flex;
+            height: 30px;
+            
+            
+        }
+        main{
+            height: 600px;
+            background-color: rgb(148, 121, 52);
+            float:right;
+            width: 75%;
+            margin-top: 3px;
+        }
+        main .one{
+            display: flex;
+            font-size: 5px;
+            padding-top: 10px;
+            
+        }
+        main .str img{
+            width: 3%;
+            padding-top: 8px;
+            
+        }
+        main .foto img{
+            width: 20%;
+        }
+        main .foto{
+            width: 50px;
+            padding-top: 1px;
+            display: flex;
+            
+        }
+        main .two{
+            font-size: 5px;
+            padding-top: 8px;
+        }
+    }
+    
+}

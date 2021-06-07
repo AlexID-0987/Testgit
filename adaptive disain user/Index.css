@@ -1,0 +1,195 @@
+.head{
+    min-width: 300px;
+    height: 550px;
+    background: rgb(21, 88, 88);
+    
+}
+.menu{
+    padding: 40px;
+}
+.menu li{
+    list-style: none;
+    display: inline;
+    font-size: 20px;
+    color: rgb(247, 244, 244);
+}
+
+.lab #te{
+    font-size: 3em;
+    text-align: left;
+    color: rgb(247, 244, 244);
+    padding: 40px;
+}
+.im img{
+    
+    width: 70px;
+    padding-left: 3em;
+    
+}
+.im{
+    float: left;
+}
+.headmenu{
+    padding: 20px;
+}
+.headmenu #one{
+    font-size: 1em;
+    color: rgb(247, 243, 243);
+    padding-left: 30px;
+    
+}
+.headmenu #two{
+    font-size: 20px;
+    font-weight: 900;
+    color:rgb(255, 253, 253);
+    text-align: center;
+    padding-left: 30px;
+    
+}
+.headmenu{
+    float: left;
+}
+.headmenu1{
+    padding: 20px;
+}
+.headmenu1 #one{
+    font-size: 1em;
+    color: rgb(247, 243, 243);
+    padding-left: 30px;
+    
+}
+.headmenu1 #two{
+    font-size: 20px;
+    font-weight: 900;
+    color:rgb(255, 253, 253);
+    text-align: center;
+    padding-left: 30px;
+    
+}
+.headmenu1{
+    float: left;
+}
+.headmenu2{
+    padding: 20px;
+}
+.headmenu2 #one{
+    font-size: 1em;
+    color: rgb(247, 243, 243);
+    padding-left: 30px;
+    
+}
+.headmenu2 #two{
+    font-size: 20px;
+    font-weight: 900;
+    color:rgb(255, 253, 253);
+    text-align: center;
+    padding-left: 30px;
+    
+}
+.headmenu2{
+    float: left;
+}
+.headmenu3{
+    padding: 20px;
+}
+.headmenu3 #one{
+    font-size: 1em;
+    color: rgb(247, 243, 243);
+    padding-left: 30px;
+    
+}
+.headmenu3 #two{
+    font-size: 20px;
+    font-weight: 900;
+    color:rgb(255, 253, 253);
+    text-align: center;
+    padding-left: 30px;
+    
+}
+.headmenu3{
+    float: left;
+}
+
+
+
+@media screen and (max-width: 600px){
+    .im img{
+    
+        width: 130px;
+        padding-left: 3em;
+        
+    }
+    .headmenu{
+        padding: 5px;
+    }
+    .headmenu #one{
+        font-size: 15px;
+        color: rgb(247, 243, 243);
+        padding-left: 10px;
+        
+    }
+    .headmenu #two{
+        font-size: 20px;
+        font-weight: 900;
+        color:rgb(255, 253, 253);
+        text-align: center;
+        padding-left: 10px;
+        
+    }
+    .headmenu1{
+        float: left;
+    }
+    .headmenu1{
+        padding: 5px;
+    }
+    .headmenu1 #one{
+        font-size: 15px;
+        color: rgb(247, 243, 243);
+        padding-left: 10px;
+        
+    }
+    .headmenu1 #two{
+        font-size: 20px;
+        font-weight: 900;
+        color:rgb(255, 253, 253);
+        text-align: center;
+        padding-left: 10px;
+        
+    }
+    .headmenu1{
+        float: left;
+    }
+    .headmenu2{
+        padding: 5px;
+    }
+    .headmenu2 #one{
+        font-size: 15px;
+        color: rgb(247, 243, 243);
+        padding-left: 10px;
+        
+    }
+    .headmenu2 #two{
+        font-size: 20px;
+        font-weight: 900;
+        color:rgb(255, 253, 253);
+        text-align: center;
+        padding-left: 10px;
+    }
+    .headmenu3{
+        padding: 5px;
+    }
+    .headmenu3 #one{
+        font-size: 15px;
+        color: rgb(247, 243, 243);
+        padding-left: 25px;
+        
+    }
+    .headmenu3 #two{
+        font-size: 20px;
+        font-weight: 900;
+        color:rgb(255, 253, 253);
+        text-align: center;
+        padding-left: 25px;
+    }
+};
+    
