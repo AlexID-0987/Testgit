@@ -1,0 +1,9 @@
+C:\Users\Alex\source\repos\Progressbarsport\Progressbarsport\bin\Debug\Progressbarsport.exe.config
+C:\Users\Alex\source\repos\Progressbarsport\Progressbarsport\bin\Debug\Progressbarsport.exe
+C:\Users\Alex\source\repos\Progressbarsport\Progressbarsport\bin\Debug\Progressbarsport.pdb
+C:\Users\Alex\source\repos\Progressbarsport\Progressbarsport\obj\Debug\Progressbarsport.Form1.resources
+C:\Users\Alex\source\repos\Progressbarsport\Progressbarsport\obj\Debug\Progressbarsport.Properties.Resources.resources
+C:\Users\Alex\source\repos\Progressbarsport\Progressbarsport\obj\Debug\Progressbarsport.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\Progressbarsport\Progressbarsport\obj\Debug\Progressbarsport.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Progressbarsport\Progressbarsport\obj\Debug\Progressbarsport.exe
+C:\Users\Alex\source\repos\Progressbarsport\Progressbarsport\obj\Debug\Progressbarsport.pdb

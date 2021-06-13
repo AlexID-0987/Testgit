@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\NumberFibonashi\NumberFibonashi\bin\Debug\NumberFibonashi.exe.config
+C:\Users\Alex\source\repos\NumberFibonashi\NumberFibonashi\bin\Debug\NumberFibonashi.exe
+C:\Users\Alex\source\repos\NumberFibonashi\NumberFibonashi\bin\Debug\NumberFibonashi.pdb
+C:\Users\Alex\source\repos\NumberFibonashi\NumberFibonashi\obj\Debug\NumberFibonashi.Form1.resources
+C:\Users\Alex\source\repos\NumberFibonashi\NumberFibonashi\obj\Debug\NumberFibonashi.Properties.Resources.resources
+C:\Users\Alex\source\repos\NumberFibonashi\NumberFibonashi\obj\Debug\NumberFibonashi.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\NumberFibonashi\NumberFibonashi\obj\Debug\NumberFibonashi.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\NumberFibonashi\NumberFibonashi\obj\Debug\NumberFibonashi.exe
+C:\Users\Alex\source\repos\NumberFibonashi\NumberFibonashi\obj\Debug\NumberFibonashi.pdb
+C:\Users\Alex\source\repos\NumberFibonashi\NumberFibonashi\obj\Debug\NumberFibonashi.csprojAssemblyReference.cache

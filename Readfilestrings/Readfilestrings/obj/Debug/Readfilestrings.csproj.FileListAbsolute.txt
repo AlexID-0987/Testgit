@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\Readfilestrings\Readfilestrings\bin\Debug\Readfilestrings.exe.config
+C:\Users\Alex\source\repos\Readfilestrings\Readfilestrings\bin\Debug\Readfilestrings.exe
+C:\Users\Alex\source\repos\Readfilestrings\Readfilestrings\bin\Debug\Readfilestrings.pdb
+C:\Users\Alex\source\repos\Readfilestrings\Readfilestrings\obj\Debug\Readfilestrings.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Readfilestrings\Readfilestrings\obj\Debug\Readfilestrings.Form1.resources
+C:\Users\Alex\source\repos\Readfilestrings\Readfilestrings\obj\Debug\Readfilestrings.Properties.Resources.resources
+C:\Users\Alex\source\repos\Readfilestrings\Readfilestrings\obj\Debug\Readfilestrings.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\Readfilestrings\Readfilestrings\obj\Debug\Readfilestrings.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Readfilestrings\Readfilestrings\obj\Debug\Readfilestrings.exe
+C:\Users\Alex\source\repos\Readfilestrings\Readfilestrings\obj\Debug\Readfilestrings.pdb

@@ -1,0 +1,6 @@
+Bitcoin is like digital gold in many ways. Like gold, bitcoin cannot simply be created arbitrarily; it requires work to "extract." While gold must be extracted from the physical earth, bitcoin must be "mined" via computational means.
+
+Bitcoin also has a stipulation—set forth in its source code—that it must have a limited and finite supply. For this reason, there will only ever be 21 million bitcoins ever produced. On average, these bitcoins are introduced to the Bitcoin supply at a fixed rate of one block every ten minutes. In addition, the number of bitcoins released in each of these aforementioned blocks is reduced by 50% every four years.
+In fact, there are only 21 million bitcoins that can be mined in total.1 Once miners have unlocked this number of bitcoins, the supply will be exhausted. However, it's possible that bitcoin's protocol will be changed to allow for a larger supply. What will happen when the global supply of bitcoin reaches its limit? This is the subject of much debate among fans of cryptocurrency.
+
+Currently, around 18.5 million bitcoins have been mined. This leaves less than three million that have yet to be introduced into circulation.

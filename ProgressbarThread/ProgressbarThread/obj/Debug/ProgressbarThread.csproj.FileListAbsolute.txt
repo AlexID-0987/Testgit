@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\ProgressbarThread\ProgressbarThread\bin\Debug\ProgressbarThread.exe.config
+C:\Users\Alex\source\repos\ProgressbarThread\ProgressbarThread\bin\Debug\ProgressbarThread.exe
+C:\Users\Alex\source\repos\ProgressbarThread\ProgressbarThread\bin\Debug\ProgressbarThread.pdb
+C:\Users\Alex\source\repos\ProgressbarThread\ProgressbarThread\obj\Debug\ProgressbarThread.Form1.resources
+C:\Users\Alex\source\repos\ProgressbarThread\ProgressbarThread\obj\Debug\ProgressbarThread.Properties.Resources.resources
+C:\Users\Alex\source\repos\ProgressbarThread\ProgressbarThread\obj\Debug\ProgressbarThread.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\ProgressbarThread\ProgressbarThread\obj\Debug\ProgressbarThread.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\ProgressbarThread\ProgressbarThread\obj\Debug\ProgressbarThread.exe
+C:\Users\Alex\source\repos\ProgressbarThread\ProgressbarThread\obj\Debug\ProgressbarThread.pdb
+C:\Users\Alex\source\repos\ProgressbarThread\ProgressbarThread\obj\Debug\ProgressbarThread.csprojAssemblyReference.cache
