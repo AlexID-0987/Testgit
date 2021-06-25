@@ -1,0 +1,8 @@
+C:\Users\Alex\source\repos\OurImageEdditor\Mycolors\bin\Debug\Mycolors.dll
+C:\Users\Alex\source\repos\OurImageEdditor\Mycolors\bin\Debug\Mycolors.pdb
+C:\Users\Alex\source\repos\OurImageEdditor\Mycolors\bin\Debug\PlaginFramework.dll
+C:\Users\Alex\source\repos\OurImageEdditor\Mycolors\bin\Debug\PlaginFramework.pdb
+C:\Users\Alex\source\repos\OurImageEdditor\Mycolors\obj\Debug\Mycolors.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\OurImageEdditor\Mycolors\obj\Debug\Mycolors.csproj.CopyComplete
+C:\Users\Alex\source\repos\OurImageEdditor\Mycolors\obj\Debug\Mycolors.dll
+C:\Users\Alex\source\repos\OurImageEdditor\Mycolors\obj\Debug\Mycolors.pdb

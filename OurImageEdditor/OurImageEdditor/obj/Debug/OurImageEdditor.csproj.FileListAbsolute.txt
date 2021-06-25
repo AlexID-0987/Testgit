@@ -1,0 +1,13 @@
+C:\Users\Alex\source\repos\OurImageEdditor\OurImageEdditor\bin\Debug\OurImageEdditor.exe.config
+C:\Users\Alex\source\repos\OurImageEdditor\OurImageEdditor\bin\Debug\OurImageEdditor.exe
+C:\Users\Alex\source\repos\OurImageEdditor\OurImageEdditor\bin\Debug\OurImageEdditor.pdb
+C:\Users\Alex\source\repos\OurImageEdditor\OurImageEdditor\bin\Debug\PlaginFramework.dll
+C:\Users\Alex\source\repos\OurImageEdditor\OurImageEdditor\bin\Debug\PlaginFramework.pdb
+C:\Users\Alex\source\repos\OurImageEdditor\OurImageEdditor\obj\Debug\OurImageEdditor.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\OurImageEdditor\OurImageEdditor\obj\Debug\OurImageEdditor.Form1.resources
+C:\Users\Alex\source\repos\OurImageEdditor\OurImageEdditor\obj\Debug\OurImageEdditor.Properties.Resources.resources
+C:\Users\Alex\source\repos\OurImageEdditor\OurImageEdditor\obj\Debug\OurImageEdditor.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\OurImageEdditor\OurImageEdditor\obj\Debug\OurImageEdditor.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\OurImageEdditor\OurImageEdditor\obj\Debug\OurImageEdditor.csproj.CopyComplete
+C:\Users\Alex\source\repos\OurImageEdditor\OurImageEdditor\obj\Debug\OurImageEdditor.exe
+C:\Users\Alex\source\repos\OurImageEdditor\OurImageEdditor\obj\Debug\OurImageEdditor.pdb

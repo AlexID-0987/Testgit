@@ -1,0 +1,9 @@
+C:\Users\Alex\source\repos\OurImageEdditor\FlipImage\bin\Debug\FlipImage.dll
+C:\Users\Alex\source\repos\OurImageEdditor\FlipImage\bin\Debug\FlipImage.pdb
+C:\Users\Alex\source\repos\OurImageEdditor\FlipImage\bin\Debug\PlaginFramework.dll
+C:\Users\Alex\source\repos\OurImageEdditor\FlipImage\bin\Debug\PlaginFramework.pdb
+C:\Users\Alex\source\repos\OurImageEdditor\FlipImage\obj\Debug\FlipImage.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\OurImageEdditor\FlipImage\obj\Debug\FlipImage.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\OurImageEdditor\FlipImage\obj\Debug\FlipImage.csproj.CopyComplete
+C:\Users\Alex\source\repos\OurImageEdditor\FlipImage\obj\Debug\FlipImage.dll
+C:\Users\Alex\source\repos\OurImageEdditor\FlipImage\obj\Debug\FlipImage.pdb
