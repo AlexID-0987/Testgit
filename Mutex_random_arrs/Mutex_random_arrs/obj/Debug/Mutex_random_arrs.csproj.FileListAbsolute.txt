@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\Mutex_random_arrs\Mutex_random_arrs\bin\Debug\Mutex_random_arrs.exe.config
+C:\Users\Alex\source\repos\Mutex_random_arrs\Mutex_random_arrs\bin\Debug\Mutex_random_arrs.exe
+C:\Users\Alex\source\repos\Mutex_random_arrs\Mutex_random_arrs\bin\Debug\Mutex_random_arrs.pdb
+C:\Users\Alex\source\repos\Mutex_random_arrs\Mutex_random_arrs\obj\Debug\Mutex_random_arrs.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Mutex_random_arrs\Mutex_random_arrs\obj\Debug\Mutex_random_arrs.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Mutex_random_arrs\Mutex_random_arrs\obj\Debug\Mutex_random_arrs.exe
+C:\Users\Alex\source\repos\Mutex_random_arrs\Mutex_random_arrs\obj\Debug\Mutex_random_arrs.pdb

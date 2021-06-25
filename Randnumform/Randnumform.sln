@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Randnumform", "Randnumform\Randnumform.csproj", "{92F2B0A0-35E8-487A-9734-953E4FF0A83E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92F2B0A0-35E8-487A-9734-953E4FF0A83E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F2B0A0-35E8-487A-9734-953E4FF0A83E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F2B0A0-35E8-487A-9734-953E4FF0A83E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F2B0A0-35E8-487A-9734-953E4FF0A83E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C53B201-57D4-474A-B173-0EADE4F7EC02}
+	EndGlobalSection
+EndGlobal

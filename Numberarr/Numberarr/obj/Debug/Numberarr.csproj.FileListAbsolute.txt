@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\Numberarr\Numberarr\bin\Debug\Numberarr.exe.config
+C:\Users\Alex\source\repos\Numberarr\Numberarr\bin\Debug\Numberarr.exe
+C:\Users\Alex\source\repos\Numberarr\Numberarr\bin\Debug\Numberarr.pdb
+C:\Users\Alex\source\repos\Numberarr\Numberarr\obj\Debug\Numberarr.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Numberarr\Numberarr\obj\Debug\Numberarr.Form1.resources
+C:\Users\Alex\source\repos\Numberarr\Numberarr\obj\Debug\Numberarr.Properties.Resources.resources
+C:\Users\Alex\source\repos\Numberarr\Numberarr\obj\Debug\Numberarr.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\Numberarr\Numberarr\obj\Debug\Numberarr.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Numberarr\Numberarr\obj\Debug\Numberarr.exe
+C:\Users\Alex\source\repos\Numberarr\Numberarr\obj\Debug\Numberarr.pdb

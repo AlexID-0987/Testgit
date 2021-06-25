@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\Max_min_numberarr\Max_min_numberarr\bin\Debug\Max_min_numberarr.exe.config
+C:\Users\Alex\source\repos\Max_min_numberarr\Max_min_numberarr\bin\Debug\Max_min_numberarr.exe
+C:\Users\Alex\source\repos\Max_min_numberarr\Max_min_numberarr\bin\Debug\Max_min_numberarr.pdb
+C:\Users\Alex\source\repos\Max_min_numberarr\Max_min_numberarr\obj\Debug\Max_min_numberarr.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Max_min_numberarr\Max_min_numberarr\obj\Debug\Max_min_numberarr.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Max_min_numberarr\Max_min_numberarr\obj\Debug\Max_min_numberarr.exe
+C:\Users\Alex\source\repos\Max_min_numberarr\Max_min_numberarr\obj\Debug\Max_min_numberarr.pdb

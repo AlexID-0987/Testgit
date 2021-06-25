@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\funkcionmutex\funkcionmutex\bin\Debug\funkcionmutex.exe.config
+C:\Users\Alex\source\repos\funkcionmutex\funkcionmutex\bin\Debug\funkcionmutex.exe
+C:\Users\Alex\source\repos\funkcionmutex\funkcionmutex\bin\Debug\funkcionmutex.pdb
+C:\Users\Alex\source\repos\funkcionmutex\funkcionmutex\obj\Debug\funkcionmutex.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\funkcionmutex\funkcionmutex\obj\Debug\funkcionmutex.exe
+C:\Users\Alex\source\repos\funkcionmutex\funkcionmutex\obj\Debug\funkcionmutex.pdb
+C:\Users\Alex\source\repos\funkcionmutex\funkcionmutex\obj\Debug\funkcionmutex.csprojAssemblyReference.cache
