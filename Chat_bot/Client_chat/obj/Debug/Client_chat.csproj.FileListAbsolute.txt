@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\Chat_bot\Client_chat\bin\Debug\Client_chat.exe.config
+C:\Users\Alex\source\repos\Chat_bot\Client_chat\bin\Debug\Client_chat.exe
+C:\Users\Alex\source\repos\Chat_bot\Client_chat\bin\Debug\Client_chat.pdb
+C:\Users\Alex\source\repos\Chat_bot\Client_chat\obj\Debug\Client_chat.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Chat_bot\Client_chat\obj\Debug\Client_chat.Form1.resources
+C:\Users\Alex\source\repos\Chat_bot\Client_chat\obj\Debug\Client_chat.Properties.Resources.resources
+C:\Users\Alex\source\repos\Chat_bot\Client_chat\obj\Debug\Client_chat.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\Chat_bot\Client_chat\obj\Debug\Client_chat.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Chat_bot\Client_chat\obj\Debug\Client_chat.exe
+C:\Users\Alex\source\repos\Chat_bot\Client_chat\obj\Debug\Client_chat.pdb

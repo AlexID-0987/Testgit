@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\Server_client\Socet_my\bin\Debug\Socet_my.exe.config
+C:\Users\Alex\source\repos\Server_client\Socet_my\bin\Debug\Socet_my.exe
+C:\Users\Alex\source\repos\Server_client\Socet_my\bin\Debug\Socet_my.pdb
+C:\Users\Alex\source\repos\Server_client\Socet_my\obj\Debug\Socet_my.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Server_client\Socet_my\obj\Debug\Socet_my.exe
+C:\Users\Alex\source\repos\Server_client\Socet_my\obj\Debug\Socet_my.pdb
+C:\Users\Alex\source\repos\Server_client\Socet_my\obj\Debug\Socet_my.csprojAssemblyReference.cache

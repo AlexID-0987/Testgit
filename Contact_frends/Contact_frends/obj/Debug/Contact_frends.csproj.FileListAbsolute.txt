@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\Contact_frends\Contact_frends\bin\Debug\Contact_frends.exe.config
+C:\Users\Alex\source\repos\Contact_frends\Contact_frends\bin\Debug\Contact_frends.exe
+C:\Users\Alex\source\repos\Contact_frends\Contact_frends\bin\Debug\Contact_frends.pdb
+C:\Users\Alex\source\repos\Contact_frends\Contact_frends\obj\Debug\Contact_frends.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Contact_frends\Contact_frends\obj\Debug\Contact_frends.Form1.resources
+C:\Users\Alex\source\repos\Contact_frends\Contact_frends\obj\Debug\Contact_frends.Properties.Resources.resources
+C:\Users\Alex\source\repos\Contact_frends\Contact_frends\obj\Debug\Contact_frends.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\Contact_frends\Contact_frends\obj\Debug\Contact_frends.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Contact_frends\Contact_frends\obj\Debug\Contact_frends.exe
+C:\Users\Alex\source\repos\Contact_frends\Contact_frends\obj\Debug\Contact_frends.pdb

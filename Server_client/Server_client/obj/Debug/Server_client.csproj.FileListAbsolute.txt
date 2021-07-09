@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\Server_client\Server_client\bin\Debug\Server_client.exe.config
+C:\Users\Alex\source\repos\Server_client\Server_client\bin\Debug\Server_client.exe
+C:\Users\Alex\source\repos\Server_client\Server_client\bin\Debug\Server_client.pdb
+C:\Users\Alex\source\repos\Server_client\Server_client\obj\Debug\Server_client.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Server_client\Server_client\obj\Debug\Server_client.exe
+C:\Users\Alex\source\repos\Server_client\Server_client\obj\Debug\Server_client.pdb
+C:\Users\Alex\source\repos\Server_client\Server_client\obj\Debug\Server_client.csprojAssemblyReference.cache
